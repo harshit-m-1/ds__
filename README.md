@@ -1,1 +1,1 @@
-# ds__
+# Some questions solved using pandas and numpy
